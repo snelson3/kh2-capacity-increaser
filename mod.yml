@@ -647,18 +647,6 @@ assets:
     - name: spawnscripts/he08.ard/program-74
     type: AreaDataScript
 - method: binarc
-  name: ard/he09.ard
-  source:
-  - method: areadatascript
-    name: btl
-    source:
-    - name: spawnscripts/he09.ard/program-2c
-    - name: spawnscripts/he09.ard/program-bd
-    - name: spawnscripts/he09.ard/program-c0
-    - name: spawnscripts/he09.ard/program-c1
-    - name: spawnscripts/he09.ard/program-c4
-    type: AreaDataScript
-- method: binarc
   name: ard/he10.ard
   source:
   - method: areadatascript

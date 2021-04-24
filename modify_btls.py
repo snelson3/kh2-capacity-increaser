@@ -29,6 +29,7 @@ ignore_ards = [
     "mu07.ard", #summit
     "al10.ard", #treasure room
     "dc00.ard", #audience chamber
+    "he09.ard", #cups
 ]
 # These issues might all be related to GOA mod
 # I need to know if there are any areas in the game where a mission starts without a cutscene beforehand
