@@ -1,0 +1,8 @@
+Program 0x74
+Progress 0x183a
+Capacity -3.3895395E+38
+AllocEnemy 2097152
+Party DEFAULT
+Mission 0x4D "HE08_MS107"
+Spawn "b_41"
+Spawn "b_80"

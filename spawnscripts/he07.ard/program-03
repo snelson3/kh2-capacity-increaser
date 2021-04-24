@@ -1,0 +1,9 @@
+Program 0x03
+Capacity -3.3895395E+38
+Unk06 20
+StatusFlag3
+MapScript 7
+Spawn "b_01"
+Spawn "b_10"
+Spawn "b_11"
+

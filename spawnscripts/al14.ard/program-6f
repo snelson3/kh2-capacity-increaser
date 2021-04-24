@@ -1,0 +1,10 @@
+Program 0x6F
+Capacity -3.3895395E+38
+Party W_FRIEND
+Layout "minigame/al_14.bar"
+Mission 0x16F "AL14_MS202_FREE"
+Unk1d 4
+Spawn "b_70"
+Spawn "b_98"
+Spawn "b_97"
+

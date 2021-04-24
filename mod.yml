@@ -1,0 +1,1313 @@
+assets:
+- method: binarc
+  name: ard/al00.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al00.ard/program-01
+    - name: spawnscripts/al00.ard/program-02
+    - name: spawnscripts/al00.ard/program-0a
+    - name: spawnscripts/al00.ard/program-39
+    type: AreaDataScript
+- method: binarc
+  name: ard/al01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al01.ard/program-01
+    - name: spawnscripts/al01.ard/program-02
+    - name: spawnscripts/al01.ard/program-0a
+    - name: spawnscripts/al01.ard/program-23
+    type: AreaDataScript
+- method: binarc
+  name: ard/al03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al03.ard/program-01
+    - name: spawnscripts/al03.ard/program-02
+    - name: spawnscripts/al03.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/al07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al07.ard/program-01
+    - name: spawnscripts/al07.ard/program-02
+    - name: spawnscripts/al07.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/al12.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al12.ard/program-01
+    - name: spawnscripts/al12.ard/program-02
+    - name: spawnscripts/al12.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/al13.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al13.ard/program-4f
+    - name: spawnscripts/al13.ard/program-50
+    - name: spawnscripts/al13.ard/program-51
+    type: AreaDataScript
+- method: binarc
+  name: ard/al14.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/al14.ard/program-00
+    - name: spawnscripts/al14.ard/program-0a
+    - name: spawnscripts/al14.ard/program-0b
+    - name: spawnscripts/al14.ard/program-0c
+    - name: spawnscripts/al14.ard/program-0e
+    - name: spawnscripts/al14.ard/program-11
+    - name: spawnscripts/al14.ard/program-12
+    - name: spawnscripts/al14.ard/program-19
+    - name: spawnscripts/al14.ard/program-3d
+    - name: spawnscripts/al14.ard/program-56
+    - name: spawnscripts/al14.ard/program-57
+    - name: spawnscripts/al14.ard/program-64
+    - name: spawnscripts/al14.ard/program-65
+    - name: spawnscripts/al14.ard/program-66
+    - name: spawnscripts/al14.ard/program-69
+    - name: spawnscripts/al14.ard/program-6a
+    - name: spawnscripts/al14.ard/program-6f
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb00.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb00.ard/program-01
+    - name: spawnscripts/bb00.ard/program-02
+    - name: spawnscripts/bb00.ard/program-03
+    - name: spawnscripts/bb00.ard/program-0a
+    - name: spawnscripts/bb00.ard/program-0b
+    - name: spawnscripts/bb00.ard/program-24
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb04.ard/program-01
+    - name: spawnscripts/bb04.ard/program-02
+    - name: spawnscripts/bb04.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb06.ard/program-01
+    - name: spawnscripts/bb06.ard/program-02
+    - name: spawnscripts/bb06.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb07.ard/program-01
+    - name: spawnscripts/bb07.ard/program-02
+    - name: spawnscripts/bb07.ard/program-03
+    - name: spawnscripts/bb07.ard/program-04
+    - name: spawnscripts/bb07.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb08.ard/program-01
+    - name: spawnscripts/bb08.ard/program-02
+    - name: spawnscripts/bb08.ard/program-03
+    - name: spawnscripts/bb08.ard/program-0a
+    - name: spawnscripts/bb08.ard/program-0b
+    - name: spawnscripts/bb08.ard/program-23
+    - name: spawnscripts/bb08.ard/program-24
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb09.ard/program-01
+    - name: spawnscripts/bb09.ard/program-02
+    - name: spawnscripts/bb09.ard/program-0a
+    - name: spawnscripts/bb09.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb11.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb11.ard/program-01
+    - name: spawnscripts/bb11.ard/program-02
+    - name: spawnscripts/bb11.ard/program-0a
+    - name: spawnscripts/bb11.ard/program-48
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb12.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb12.ard/program-01
+    - name: spawnscripts/bb12.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/bb13.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/bb13.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca01.ard/program-01
+    - name: spawnscripts/ca01.ard/program-02
+    - name: spawnscripts/ca01.ard/program-0b
+    - name: spawnscripts/ca01.ard/program-23
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca02.ard/program-01
+    - name: spawnscripts/ca02.ard/program-02
+    - name: spawnscripts/ca02.ard/program-0a
+    - name: spawnscripts/ca02.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca03.ard/program-38
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca07.ard/program-3a
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca09.ard/program-01
+    - name: spawnscripts/ca09.ard/program-02
+    - name: spawnscripts/ca09.ard/program-03
+    - name: spawnscripts/ca09.ard/program-0a
+    - name: spawnscripts/ca09.ard/program-15
+    - name: spawnscripts/ca09.ard/program-16
+    - name: spawnscripts/ca09.ard/program-3b
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca10.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca10.ard/program-01
+    - name: spawnscripts/ca10.ard/program-0a
+    - name: spawnscripts/ca10.ard/program-16
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca12.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca12.ard/program-01
+    - name: spawnscripts/ca12.ard/program-02
+    - name: spawnscripts/ca12.ard/program-0a
+    - name: spawnscripts/ca12.ard/program-15
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca13.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca13.ard/program-01
+    - name: spawnscripts/ca13.ard/program-02
+    - name: spawnscripts/ca13.ard/program-0a
+    - name: spawnscripts/ca13.ard/program-15
+    - name: spawnscripts/ca13.ard/program-16
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca14.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca14.ard/program-0a
+    - name: spawnscripts/ca14.ard/program-15
+    - name: spawnscripts/ca14.ard/program-16
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca15.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca15.ard/program-0a
+    - name: spawnscripts/ca15.ard/program-0b
+    - name: spawnscripts/ca15.ard/program-15
+    - name: spawnscripts/ca15.ard/program-16
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca18.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca18.ard/program-01
+    - name: spawnscripts/ca18.ard/program-0a
+    - name: spawnscripts/ca18.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca19.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca19.ard/program-01
+    - name: spawnscripts/ca19.ard/program-0a
+    - name: spawnscripts/ca19.ard/program-0b
+    - name: spawnscripts/ca19.ard/program-0c
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca20.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca20.ard/program-0a
+    - name: spawnscripts/ca20.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca21.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca21.ard/program-02
+    - name: spawnscripts/ca21.ard/program-03
+    type: AreaDataScript
+- method: binarc
+  name: ard/ca22.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/ca22.ard/program-01
+    - name: spawnscripts/ca22.ard/program-02
+    - name: spawnscripts/ca22.ard/program-03
+    type: AreaDataScript
+- method: binarc
+  name: ard/dc02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/dc02.ard/program-01
+    - name: spawnscripts/dc02.ard/program-02
+    - name: spawnscripts/dc02.ard/program-03
+    - name: spawnscripts/dc02.ard/program-04
+    - name: spawnscripts/dc02.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/dc03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/dc03.ard/program-01
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh02.ard/program-01
+    - name: spawnscripts/eh02.ard/program-02
+    - name: spawnscripts/eh02.ard/program-19
+    - name: spawnscripts/eh02.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh03.ard/program-01
+    - name: spawnscripts/eh03.ard/program-02
+    - name: spawnscripts/eh03.ard/program-19
+    - name: spawnscripts/eh03.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh06.ard/program-01
+    - name: spawnscripts/eh06.ard/program-02
+    - name: spawnscripts/eh06.ard/program-19
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh10.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh10.ard/program-01
+    - name: spawnscripts/eh10.ard/program-02
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh11.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh11.ard/program-01
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh12.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh12.ard/program-01
+    - name: spawnscripts/eh12.ard/program-02
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh14.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh14.ard/program-01
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh15.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh15.ard/program-01
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh16.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh16.ard/program-01
+    - name: spawnscripts/eh16.ard/program-02
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh17.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh17.ard/program-01
+    - name: spawnscripts/eh17.ard/program-02
+    - name: spawnscripts/eh17.ard/program-ce
+    - name: spawnscripts/eh17.ard/program-f7
+    type: AreaDataScript
+- method: binarc
+  name: ard/eh25.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/eh25.ard/program-46
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb01.ard/program-01
+    - name: spawnscripts/hb01.ard/program-0a
+    - name: spawnscripts/hb01.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb07.ard/program-01
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb08.ard/program-01
+    - name: spawnscripts/hb08.ard/program-02
+    - name: spawnscripts/hb08.ard/program-34
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb09.ard/program-01
+    - name: spawnscripts/hb09.ard/program-02
+    - name: spawnscripts/hb09.ard/program-03
+    - name: spawnscripts/hb09.ard/program-04
+    - name: spawnscripts/hb09.ard/program-0a
+    - name: spawnscripts/hb09.ard/program-0b
+    - name: spawnscripts/hb09.ard/program-3a
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb11.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb11.ard/program-01
+    - name: spawnscripts/hb11.ard/program-02
+    - name: spawnscripts/hb11.ard/program-03
+    - name: spawnscripts/hb11.ard/program-0a
+    - name: spawnscripts/hb11.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb16.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb16.ard/program-01
+    - name: spawnscripts/hb16.ard/program-0a
+    - name: spawnscripts/hb16.ard/program-0b
+    - name: spawnscripts/hb16.ard/program-3e
+    - name: spawnscripts/hb16.ard/program-3f
+    - name: spawnscripts/hb16.ard/program-40
+    - name: spawnscripts/hb16.ard/program-41
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb17.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb17.ard/program-19
+    - name: spawnscripts/hb17.ard/program-42
+    - name: spawnscripts/hb17.ard/program-55
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb18.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb18.ard/program-02
+    - name: spawnscripts/hb18.ard/program-03
+    - name: spawnscripts/hb18.ard/program-0a
+    - name: spawnscripts/hb18.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb19.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb19.ard/program-03
+    - name: spawnscripts/hb19.ard/program-04
+    - name: spawnscripts/hb19.ard/program-0a
+    - name: spawnscripts/hb19.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb21.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb21.ard/program-01
+    - name: spawnscripts/hb21.ard/program-19
+    - name: spawnscripts/hb21.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb23.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb23.ard/program-01
+    - name: spawnscripts/hb23.ard/program-19
+    - name: spawnscripts/hb23.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb24.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb24.ard/program-01
+    - name: spawnscripts/hb24.ard/program-02
+    type: AreaDataScript
+- method: binarc
+  name: ard/hb25.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/hb25.ard/program-01
+    - name: spawnscripts/hb25.ard/program-02
+    - name: spawnscripts/hb25.ard/program-03
+    - name: spawnscripts/hb25.ard/program-04
+    - name: spawnscripts/hb25.ard/program-05
+    - name: spawnscripts/hb25.ard/program-19
+    - name: spawnscripts/hb25.ard/program-1a
+    type: AreaDataScript
+- method: binarc
+  name: ard/he05.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he05.ard/program-01
+    - name: spawnscripts/he05.ard/program-02
+    - name: spawnscripts/he05.ard/program-03
+    - name: spawnscripts/he05.ard/program-0a
+    - name: spawnscripts/he05.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/he06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he06.ard/program-70
+    type: AreaDataScript
+- method: binarc
+  name: ard/he07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he07.ard/program-01
+    - name: spawnscripts/he07.ard/program-02
+    - name: spawnscripts/he07.ard/program-03
+    - name: spawnscripts/he07.ard/program-0a
+    - name: spawnscripts/he07.ard/program-0b
+    - name: spawnscripts/he07.ard/program-1f
+    - name: spawnscripts/he07.ard/program-20
+    type: AreaDataScript
+- method: binarc
+  name: ard/he08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he08.ard/program-0a
+    - name: spawnscripts/he08.ard/program-74
+    type: AreaDataScript
+- method: binarc
+  name: ard/he09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he09.ard/program-2c
+    - name: spawnscripts/he09.ard/program-bd
+    - name: spawnscripts/he09.ard/program-c0
+    - name: spawnscripts/he09.ard/program-c1
+    - name: spawnscripts/he09.ard/program-c4
+    type: AreaDataScript
+- method: binarc
+  name: ard/he10.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he10.ard/program-01
+    - name: spawnscripts/he10.ard/program-16
+    type: AreaDataScript
+- method: binarc
+  name: ard/he11.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he11.ard/program-01
+    - name: spawnscripts/he11.ard/program-02
+    - name: spawnscripts/he11.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/he15.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he15.ard/program-01
+    - name: spawnscripts/he15.ard/program-02
+    - name: spawnscripts/he15.ard/program-03
+    - name: spawnscripts/he15.ard/program-0a
+    - name: spawnscripts/he15.ard/program-0b
+    - name: spawnscripts/he15.ard/program-1a
+    - name: spawnscripts/he15.ard/program-1b
+    type: AreaDataScript
+- method: binarc
+  name: ard/he16.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he16.ard/program-01
+    - name: spawnscripts/he16.ard/program-02
+    - name: spawnscripts/he16.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/he17.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/he17.ard/program-01
+    - name: spawnscripts/he17.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk03.ard/program-01
+    - name: spawnscripts/lk03.ard/program-02
+    - name: spawnscripts/lk03.ard/program-0a
+    - name: spawnscripts/lk03.ard/program-0b
+    - name: spawnscripts/lk03.ard/program-19
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk04.ard/program-01
+    - name: spawnscripts/lk04.ard/program-02
+    - name: spawnscripts/lk04.ard/program-0a
+    - name: spawnscripts/lk04.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk05.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk05.ard/program-01
+    - name: spawnscripts/lk05.ard/program-02
+    - name: spawnscripts/lk05.ard/program-0a
+    - name: spawnscripts/lk05.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk07.ard/program-01
+    - name: spawnscripts/lk07.ard/program-02
+    - name: spawnscripts/lk07.ard/program-0a
+    - name: spawnscripts/lk07.ard/program-0b
+    - name: spawnscripts/lk07.ard/program-19
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk08.ard/program-01
+    - name: spawnscripts/lk08.ard/program-02
+    - name: spawnscripts/lk08.ard/program-0a
+    - name: spawnscripts/lk08.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/lk13.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/lk13.ard/program-0a
+    - name: spawnscripts/lk13.ard/program-19
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu01.ard/program-01
+    - name: spawnscripts/mu01.ard/program-02
+    - name: spawnscripts/mu01.ard/program-0a
+    - name: spawnscripts/mu01.ard/program-0b
+    - name: spawnscripts/mu01.ard/program-0c
+    - name: spawnscripts/mu01.ard/program-43
+    - name: spawnscripts/mu01.ard/program-44
+    - name: spawnscripts/mu01.ard/program-46
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu02.ard/program-01
+    - name: spawnscripts/mu02.ard/program-02
+    - name: spawnscripts/mu02.ard/program-03
+    - name: spawnscripts/mu02.ard/program-0a
+    - name: spawnscripts/mu02.ard/program-0b
+    - name: spawnscripts/mu02.ard/program-0c
+    - name: spawnscripts/mu02.ard/program-23
+    - name: spawnscripts/mu02.ard/program-24
+    - name: spawnscripts/mu02.ard/program-25
+    - name: spawnscripts/mu02.ard/program-45
+    - name: spawnscripts/mu02.ard/program-50
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu03.ard/program-01
+    - name: spawnscripts/mu03.ard/program-02
+    - name: spawnscripts/mu03.ard/program-0a
+    - name: spawnscripts/mu03.ard/program-0b
+    - name: spawnscripts/mu03.ard/program-0c
+    - name: spawnscripts/mu03.ard/program-1a
+    - name: spawnscripts/mu03.ard/program-47
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu06.ard/program-01
+    - name: spawnscripts/mu06.ard/program-0a
+    - name: spawnscripts/mu06.ard/program-0b
+    - name: spawnscripts/mu06.ard/program-0c
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu08.ard/program-01
+    - name: spawnscripts/mu08.ard/program-0a
+    - name: spawnscripts/mu08.ard/program-68
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu09.ard/program-01
+    - name: spawnscripts/mu09.ard/program-0a
+    - name: spawnscripts/mu09.ard/program-4b
+    type: AreaDataScript
+- method: binarc
+  name: ard/mu10.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/mu10.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/nm00.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/nm00.ard/program-01
+    - name: spawnscripts/nm00.ard/program-02
+    - name: spawnscripts/nm00.ard/program-0a
+    - name: spawnscripts/nm00.ard/program-0b
+    - name: spawnscripts/nm00.ard/program-33
+    type: AreaDataScript
+- method: binarc
+  name: ard/nm02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/nm02.ard/program-01
+    - name: spawnscripts/nm02.ard/program-02
+    - name: spawnscripts/nm02.ard/program-0a
+    - name: spawnscripts/nm02.ard/program-0b
+    - name: spawnscripts/nm02.ard/program-19
+    type: AreaDataScript
+- method: binarc
+  name: ard/nm03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/nm03.ard/program-01
+    - name: spawnscripts/nm03.ard/program-0a
+    - name: spawnscripts/nm03.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/nm04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/nm04.ard/program-01
+    - name: spawnscripts/nm04.ard/program-02
+    - name: spawnscripts/nm04.ard/program-03
+    - name: spawnscripts/nm04.ard/program-0a
+    - name: spawnscripts/nm04.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/nm06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/nm06.ard/program-01
+    - name: spawnscripts/nm06.ard/program-02
+    - name: spawnscripts/nm06.ard/program-03
+    - name: spawnscripts/nm06.ard/program-0a
+    - name: spawnscripts/nm06.ard/program-0b
+    - name: spawnscripts/nm06.ard/program-23
+    - name: spawnscripts/nm06.ard/program-24
+    - name: spawnscripts/nm06.ard/program-35
+    type: AreaDataScript
+- method: binarc
+  name: ard/po09.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/po09.ard/program-3d
+    - name: spawnscripts/po09.ard/program-48
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr01.ard/program-01
+    - name: spawnscripts/tr01.ard/program-0a
+    - name: spawnscripts/tr01.ard/program-1a
+    - name: spawnscripts/tr01.ard/program-23
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr02.ard/program-3d
+    - name: spawnscripts/tr02.ard/program-3e
+    - name: spawnscripts/tr02.ard/program-48
+    - name: spawnscripts/tr02.ard/program-49
+    - name: spawnscripts/tr02.ard/program-4a
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr03.ard/program-01
+    - name: spawnscripts/tr03.ard/program-0a
+    - name: spawnscripts/tr03.ard/program-36
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr04.ard/program-01
+    - name: spawnscripts/tr04.ard/program-02
+    - name: spawnscripts/tr04.ard/program-0a
+    - name: spawnscripts/tr04.ard/program-0b
+    - name: spawnscripts/tr04.ard/program-38
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr06.ard/program-01
+    - name: spawnscripts/tr06.ard/program-0a
+    - name: spawnscripts/tr06.ard/program-0b
+    type: AreaDataScript
+- method: binarc
+  name: ard/tr07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tr07.ard/program-39
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt03.ard/program-01
+    - name: spawnscripts/tt03.ard/program-04
+    - name: spawnscripts/tt03.ard/program-05
+    - name: spawnscripts/tt03.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt04.ard/program-01
+    - name: spawnscripts/tt04.ard/program-04
+    - name: spawnscripts/tt04.ard/program-05
+    - name: spawnscripts/tt04.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt06.ard/program-01
+    - name: spawnscripts/tt06.ard/program-04
+    - name: spawnscripts/tt06.ard/program-05
+    - name: spawnscripts/tt06.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt07.ard/program-01
+    - name: spawnscripts/tt07.ard/program-04
+    - name: spawnscripts/tt07.ard/program-05
+    - name: spawnscripts/tt07.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt08.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt08.ard/program-04
+    - name: spawnscripts/tt08.ard/program-05
+    - name: spawnscripts/tt08.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt10.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt10.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt12.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt12.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt13.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt13.ard/program-02
+    - name: spawnscripts/tt13.ard/program-04
+    - name: spawnscripts/tt13.ard/program-05
+    - name: spawnscripts/tt13.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt14.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt14.ard/program-01
+    - name: spawnscripts/tt14.ard/program-02
+    - name: spawnscripts/tt14.ard/program-04
+    - name: spawnscripts/tt14.ard/program-05
+    - name: spawnscripts/tt14.ard/program-07
+    - name: spawnscripts/tt14.ard/program-a6
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt15.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt15.ard/program-01
+    - name: spawnscripts/tt15.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt16.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt16.ard/program-01
+    - name: spawnscripts/tt16.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt17.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt17.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt19.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt19.ard/program-01
+    - name: spawnscripts/tt19.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt22.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt22.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt25.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt25.ard/program-01
+    - name: spawnscripts/tt25.ard/program-04
+    - name: spawnscripts/tt25.ard/program-05
+    - name: spawnscripts/tt25.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt29.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt29.ard/program-01
+    - name: spawnscripts/tt29.ard/program-04
+    - name: spawnscripts/tt29.ard/program-05
+    - name: spawnscripts/tt29.ard/program-07
+    - name: spawnscripts/tt29.ard/program-98
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt30.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt30.ard/program-01
+    - name: spawnscripts/tt30.ard/program-04
+    - name: spawnscripts/tt30.ard/program-05
+    - name: spawnscripts/tt30.ard/program-07
+    - name: spawnscripts/tt30.ard/program-99
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt31.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt31.ard/program-01
+    - name: spawnscripts/tt31.ard/program-04
+    - name: spawnscripts/tt31.ard/program-05
+    - name: spawnscripts/tt31.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt34.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt34.ard/program-9d
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt36.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt36.ard/program-01
+    - name: spawnscripts/tt36.ard/program-04
+    - name: spawnscripts/tt36.ard/program-05
+    - name: spawnscripts/tt36.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt37.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt37.ard/program-04
+    - name: spawnscripts/tt37.ard/program-05
+    - name: spawnscripts/tt37.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt38.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt38.ard/program-01
+    - name: spawnscripts/tt38.ard/program-04
+    - name: spawnscripts/tt38.ard/program-05
+    - name: spawnscripts/tt38.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt39.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt39.ard/program-01
+    - name: spawnscripts/tt39.ard/program-04
+    - name: spawnscripts/tt39.ard/program-05
+    - name: spawnscripts/tt39.ard/program-07
+    type: AreaDataScript
+- method: binarc
+  name: ard/tt41.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/tt41.ard/program-ba
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi01.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi01.ard/program-01
+    - name: spawnscripts/wi01.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi02.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi02.ard/program-01
+    - name: spawnscripts/wi02.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi03.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi03.ard/program-01
+    - name: spawnscripts/wi03.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi04.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi04.ard/program-01
+    - name: spawnscripts/wi04.ard/program-0a
+    - name: spawnscripts/wi04.ard/program-36
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi05.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi05.ard/program-01
+    - name: spawnscripts/wi05.ard/program-0a
+    - name: spawnscripts/wi05.ard/program-37
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi06.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi06.ard/program-01
+    - name: spawnscripts/wi06.ard/program-0a
+    type: AreaDataScript
+- method: binarc
+  name: ard/wi07.ard
+  source:
+  - method: areadatascript
+    name: btl
+    source:
+    - name: spawnscripts/wi07.ard/program-01
+    - name: spawnscripts/wi07.ard/program-0a
+    type: AreaDataScript
+description: 'READ THIS FIRST
+
+  Sets the capacity for all the battles that set capacity to an arbitrarily large
+  number, in order to eliminate issues with spawn limiters
+
+  may cause crashes in certain cases. Some areas that are more likely to crash have
+  been excluded'
+originalAuthor: Thundrio
+title: KH2 Capacity Increaser

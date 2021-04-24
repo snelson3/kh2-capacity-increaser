@@ -1,0 +1,7 @@
+Program 0x0B
+Capacity -3.3895395E+38
+AllocEnemy 2411724
+CasualSpawn 30 "b_30"
+Spawn "b_21"
+RandomSpawn "b_80" "b_81"
+

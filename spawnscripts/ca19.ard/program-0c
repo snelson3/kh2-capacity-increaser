@@ -1,0 +1,9 @@
+Program 0x0C
+Capacity -3.3895395E+38
+Unk06 0
+Party W_FRIEND
+StatusFlag3
+Mission 0xE1 "SHIP_BATTLE"
+CasualSpawn 30 "b_30"
+Spawn "b_22"
+

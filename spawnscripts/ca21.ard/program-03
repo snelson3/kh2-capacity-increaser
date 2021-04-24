@@ -1,0 +1,7 @@
+Program 0x03
+Capacity -3.3895395E+38
+Unk06 0
+Party W_FRIEND_FIX
+StatusFlag3
+Mission 0xE1 "SHIP_BATTLE"
+Spawn "b_02"

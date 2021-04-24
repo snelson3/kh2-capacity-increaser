@@ -1,0 +1,6 @@
+Program 0x15
+Capacity -3.3895395E+38
+Party W_FRIEND
+Spawn "b_71"
+RandomSpawn "b_80" "b_81" "b_82" "b_83"
+
